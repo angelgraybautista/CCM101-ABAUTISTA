@@ -1,26 +1,34 @@
-
-## `README.md`
 ```markdown
-# Laboratory 5: The Cloud Data Engineer
+# Laboratory 05 – Cloud Data Engineer
 
 ## Mission Overview
-Learned how object storage works and deployed a self‑hosted S3‑compatible storage server using MinIO and Docker. Created a bucket and uploaded files via a web interface to support a photo‑sharing application.
+
+In this laboratory activity, I deployed a MinIO object storage server using Docker. I created a storage bucket and uploaded a sample file to demonstrate how object storage works.
 
 ## Objectives
-- Differentiate Block, File, and Object Storage
-- Deploy MinIO via Docker
-- Access services through port forwarding
-- Create buckets and manage objects
-- Document work in Markdown & GitHub
+
+- Differentiate Block, File, and Object Storage.
+- Deploy MinIO using Docker.
+- Access a cloud service through port forwarding.
+- Create a storage bucket.
+- Upload an object to the bucket.
+- Document the cloud storage deployment.
 
 ## Tools Used
-- Docker / MinIO
-- KillerCoda Playground
+
+- KillerCoda
+- Ubuntu
+- Docker
+- MinIO
 - GitHub
 - Web Browser
 
 ## Skills Learned
-- Container deployment with environment variables
-- Port forwarding & cloud service access
-- Object storage concepts and management
-- Technical documentation and portfolio maintenance
+
+- Docker container deployment
+- Object storage
+- MinIO administration
+- Cloud storage buckets
+- Port forwarding
+- Markdown documentation
+- GitHub repository management
